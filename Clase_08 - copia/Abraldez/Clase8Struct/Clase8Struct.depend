@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537189686 source:d:\abraldez\clase8struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

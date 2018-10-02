@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1537795166 source:d:\abraldez\prog-y-labo_1-master\clase_10\abm profefuncionesactl\abmdinamico\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<conio.h>
-
