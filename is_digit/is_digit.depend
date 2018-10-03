@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1523919790 source:d:\is_digit\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1523919790 source:c:\users\alumno\desktop\is_digit\main.c
+	<stdio.h>
+	<stdlib.h>
+

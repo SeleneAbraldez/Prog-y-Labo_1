@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1537196523 source:d:\abraldez\clase8structarray\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1538514916 source:d:\user\git\prog-y-labo_1\clase_08 - copia\abraldez\structarray\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

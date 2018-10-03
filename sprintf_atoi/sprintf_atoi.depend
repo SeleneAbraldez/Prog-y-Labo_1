@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1523918238 source:d:\sprintf_atoi\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1523918238 source:c:\users\alumno\desktop\sprintf_atoi\main.c
+	<stdio.h>
+	<stdlib.h>
+
