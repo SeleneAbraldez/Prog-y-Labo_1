@@ -15,5 +15,23 @@ typedef struct{
     int isEmpty;
 }eDirectorx;
 
+void inicializarDirectores(eDirectorx* dire, int lenDire);
+
+int lugarLibreDirectorx(eDirectorx* dire, int lenDire);
+
+int encontrarDirectorxID(eDirectorx* dire, int lenDire);
+
+int imprimirDirectorx(eDirectorx* dire, int index);
+
+int imprimirDirectores(eDirectorx* dire, int lenDire);
+
+
+int altaDirectorx(eDirectorx* dire, int lenDire);
+
+int bajaDirectorx(eDirectorx* dire, int lenDire);
+
+
+void hardcodeoDirectores(eDirectorx* dires);
+
 
 #endif

@@ -28,6 +28,8 @@ int modificarPelicula(ePeliculas* pelis, int lenPel);
 int bajaPelicula(ePeliculas* pelis, int lenPel);
 
 
+void hardcodeoPeliculas(ePeliculas* pelis);
+
 
 
 #endif // PELICULAS_H_INCLUDED

@@ -23,7 +23,7 @@
 	"utn.h"
 	"peliculas.h"
 
-1538775968 source:c:\users\user\desktop\abm vav\peliculas\parcial - copia\main.c
+1538780298 source:c:\users\user\desktop\abm vav\peliculas\parcial - copia\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -33,9 +33,9 @@
 
 1538773001 c:\users\user\desktop\abm vav\peliculas\parcial - copia\utn.h
 
-1538773891 c:\users\user\desktop\abm vav\peliculas\parcial - copia\peliculas.h
+1538779996 c:\users\user\desktop\abm vav\peliculas\parcial - copia\peliculas.h
 
-1538776187 source:c:\users\user\desktop\abm vav\peliculas\parcial - copia\peliculas.c
+1538778625 source:c:\users\user\desktop\abm vav\peliculas\parcial - copia\peliculas.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -49,9 +49,9 @@
 	<time.h>
 	<string.h>
 
-1538778209 c:\users\user\desktop\abm vav\peliculas\parcial - copia\directores.h
+1538779996 c:\users\user\desktop\abm vav\peliculas\parcial - copia\directores.h
 
-1538777996 source:c:\users\user\desktop\abm vav\peliculas\parcial - copia\directores.c
+1538779996 source:c:\users\user\desktop\abm vav\peliculas\parcial - copia\directores.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>

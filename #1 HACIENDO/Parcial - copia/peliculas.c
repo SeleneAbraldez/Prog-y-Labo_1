@@ -35,14 +35,14 @@ int encontrarPeliculaID(ePeliculas* pelis, int lenPel){
 }
 
 int imprimirPelicula(ePeliculas* pelis, int index){
-    printf("-ID: %d\nTitulo: %s\nAnio: %d\nID de directorx: %d\n\n", pelis[index].id, pelis[index].titulo, pelis[index].anio, pelis[index].idDirectorx);
+    printf("-Pelicula ID: %d\nTitulo: %s\nAnio: %d\nID de directorx: %d\n\n", pelis[index].id, pelis[index].titulo, pelis[index].anio, pelis[index].idDirectorx);
     return 0;
 }
 
 int imprimirPeliculas(ePeliculas* pelis, int lenPel){
     for(int i = 0; i<lenPel; i++){
         if(pelis[i].isEmpty == 0){
-            printf("-ID: %d\nTitulo: %s\nAnio: %d\nID de directorx: %d\n\n", pelis[i].id, pelis[i].titulo, pelis[i].anio, pelis[i].idDirectorx);
+            printf("-Pelicula ID: %d\nTitulo: %s\nAnio: %d\nID de directorx: %d\n\n", pelis[i].id, pelis[i].titulo, pelis[i].anio, pelis[i].idDirectorx);
         }
     }
     return 0;
@@ -63,7 +63,6 @@ int altaPelicula(ePeliculas* pelis, int lenPel){
         getValidString("Ingrese titulo: ", "Valor no valido.", altaPeli.titulo);
         altaPeli.anio =getValidInt("Ingrese Anio: ","Anio no valido", 1895, 2018);
         getValidString("Ingrese nacionalidad: ", "Valor no valido.", altaPeli.nacionalidad);
-        //printSector();
         altaPeli.idDirectorx =getValidInt("Ingrese directorx: ","Valor no valido", 0, 5);
         altaPeli.isEmpty = 0;
         pelis[index] = altaPeli;

@@ -14,7 +14,7 @@ void inicializarDirectores(eDirectorx* dire, int lenDire){
 int lugarLibreDirectorx(eDirectorx* dire, int lenDire){
     int index = -1;
     for(int i=0; i<lenDire; i++){
-        if( dire[i].isEmpty == 1){
+        if(dire[i].isEmpty == 1){
             index = i;
             break;
         }
@@ -34,18 +34,19 @@ int encontrarDirectorxID(eDirectorx* dire, int lenDire){
 }
 
 int imprimirDirectorx(eDirectorx* dire, int index){
-    printf("-ID: %d\nNombre: %s\nNacionalidad: %s\nFecha de nacimiento: %d/%d/%d\n\n", dire[index].id, dire[index].nombre, dire[index].nacionalidad, dire[index].nacimiento.dia, dire[index].nacimiento.mes, dire[index].nacimiento.anio);
+    printf("-Directorx ID: %d\nNombre: %s\nNacionalidad: %s\nFecha de nacimiento: %d/%d/%d\n\n", dire[index].id, dire[index].nombre, dire[index].nacionalidad, dire[index].nacimiento.dia, dire[index].nacimiento.mes, dire[index].nacimiento.anio);
     return 0;
 }
 
 int imprimirDirectores(eDirectorx* dire, int lenDire){
     for(int i = 0; i<lenDire; i++){
         if(dire[i].isEmpty == 0){
-            printf("-ID: %d\nNombre: %s\nNacionalidad: %s\nFecha de nacimiento: %d/%d/%d\n\n", dire[i].id, dire[i].nombre, dire[i].nacionalidad, dire[i].nacimiento.dia, dire[i].nacimiento.mes, dire[i].nacimiento.anio);
+            printf("-Directorx ID: %d\nNombre: %s\nNacionalidad: %s\nFecha de nacimiento: %d/%d/%d\n\n", dire[i].id, dire[i].nombre, dire[i].nacionalidad, dire[i].nacimiento.dia, dire[i].nacimiento.mes, dire[i].nacimiento.anio);
         }
     }
     return 0;
 }
+
 
 
 int altaDirectorx(eDirectorx* dire, int lenDire){
@@ -90,11 +91,13 @@ int bajaDirectorx(eDirectorx* dire, int lenDire){
     return ret;
 }
 
+
+
 void hardcodeoDirectores(eDirectorx* dires){
     eDirectorx y[]={
         {1, "Quentin Tarantino", "Estados Unidos", 27, 3, 1963, 0},
         {2, "Brad Silberling", "Estados Unidos", 8, 9, 1963, 0},
-        {1, "Bernardo Bertolucci", "Italia", 16, 3, 1941, 0},
+        {3, "Bernardo Bertolucci", "Italia", 16, 3, 1941, 0},
     };
 
     for(int i=0; i<3; i++){

@@ -19,6 +19,7 @@ int main()
     int contDires = 0;
 
     inicializarPeliculas(peliculas, CANTPEL);
+    inicializarDirectores(directores, CANTPEL);
 
     do{
         switch(menu()){
@@ -52,13 +53,22 @@ int main()
             }
             break;
         case 6:
-            printf("listar");
-            imprimirPeliculas(peliculas, CANTPEL);
-            imprimirDirectores(directores, CANTDIR);
+            if(contPelis == 0){
+                printf("No hay peliculas cargadas.\n");
+            }else{
+                imprimirPeliculas(peliculas, CANTPEL);
+            }
+            if(contDires == 0){
+                printf("No hay directores cargadxs.\n");
+            }else{
+                imprimirDirectores(directores, CANTDIR);
+            }
             break;
         case 0:
             hardcodeoPeliculas(peliculas);
+            contPelis = contPelis + 5;
             hardcodeoDirectores(directores);
+            contDires = contDires + 3;
             break;
         case 10:
             seguir = 'n';
