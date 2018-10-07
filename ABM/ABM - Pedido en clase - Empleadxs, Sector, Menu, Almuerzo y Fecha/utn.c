@@ -231,6 +231,7 @@ int getStringLetras(char mensaje[],char input[])
     getString(mensaje,aux);
     if(esSoloLetras(aux))
     {
+        toCapsFirst(aux);
         strcpy(input,aux);
         return 1;
     }
@@ -382,76 +383,34 @@ void getValidString(char requestMessage[],char errorMessage[], char input[])
 }
 
 
+int isSexCharacter(char caracter){
+    int retorno = 0;
+    strlwr(&caracter);
+    if ((caracter == 'f') || (caracter == 'm'))
+        retorno = 1;
+    return retorno;
+}
 
-/*
 
-void getValidChar(char requestMessage[],char errorMessage[], char input[])
-{
-
-    while(1)
-    {
-        if (!getCharLetra(requestMessage,input))
-        {
-            printf ("%s\n",errorMessage);
-            continue;
+int getValidSexChar(char mensaje[], char errorMensaje[]){
+    char aux='f';
+    do{
+        if(isSexCharacter(aux)==0){
+            aux = getChar(errorMensaje);
+        }else{
+            aux = getChar(mensaje);
         }
-        cleanStdin();
-        break;
-    }
-
-}
-
-int getCharLetra(char mensaje[],char input[])
-{
-    char aux[256];
-    getCharSele(mensaje,aux);
-    if(isCharacter(aux))
-    {
-        strcpy(input,aux);
-        return 1;
-    }
-    return 0;
-}
-
-int isCharacter(char cadena[]){
-    int i = 0;
-    while (cadena[i] != '\0'){
-        if ((cadena[i] != ' ') && (cadena[i] < 'a' || cadena[i] > 'z') && (cadena[i] < 'A' || cadena[i] > 'Z')){
-            return 0;
-        }
-        i++;
-    }
-    return 1;
+    }while (isSexCharacter(aux)==0);
+    return aux;
 }
 
 
-void getCharSele(char mensaje[],char input[])
-{
-    printf("%s",mensaje);
-    scanf ("%c", input);
-}
-
-
-int isCharacter(char cadena[]){
-    int i = 0;
-    while (cadena[i] != '\0'){
-        if ((cadena[i] != ' ') && (cadena[i] < 'a' || cadena[i] > 'z') && (cadena[i] < 'A' || cadena[i] > 'Z')){
-            return 0;
-        }
-        i++;
-    }
-    return 1;
-}
-
-void getValidCharSele(char mensaje[],char input[])
-{
-    printf("%s",mensaje);
-    scanf ("%c", input);
-    if(isCharacter(input)==0){
-        printf("%c", input);
-    }else{
-        printf("Error");
+void toCapsFirst(char cadena[]){
+    int i;
+    int len = strlen(cadena);
+    for (i=0;i<len;i++){
+         if (i==0 || isalpha(cadena[i]) && cadena[i-1] == ' '){
+             cadena[i]= toupper(cadena[i]);
+         }
     }
 }
-
-*/

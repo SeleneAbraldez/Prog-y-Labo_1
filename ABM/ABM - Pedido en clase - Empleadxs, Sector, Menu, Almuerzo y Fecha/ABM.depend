@@ -91,3 +91,53 @@
 	"menu.h"
 	"utn.h"
 
+1538927702 source:c:\users\user\desktop\abm vav\abm - pedido en clase - empleadxs, sector, menu, almuerzo y fecha\almuerzo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"almuerzo.h"
+	"utn.h"
+	"empleadxs.h"
+	"menu.h"
+
+1538926849 c:\users\user\desktop\abm vav\abm - pedido en clase - empleadxs, sector, menu, almuerzo y fecha\almuerzo.h
+	"empleadxs.h"
+	"menu.h"
+
+1538925344 c:\users\user\desktop\abm vav\abm - pedido en clase - empleadxs, sector, menu, almuerzo y fecha\empleadxs.h
+
+1538920598 c:\users\user\desktop\abm vav\abm - pedido en clase - empleadxs, sector, menu, almuerzo y fecha\menu.h
+
+1538953645 c:\users\user\desktop\abm vav\abm - pedido en clase - empleadxs, sector, menu, almuerzo y fecha\utn.h
+
+1538952239 source:c:\users\user\desktop\abm vav\abm - pedido en clase - empleadxs, sector, menu, almuerzo y fecha\empleadxs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleadxs.h"
+	"menu.h"
+	"utn.h"
+
+1538920739 source:c:\users\user\desktop\abm vav\abm - pedido en clase - empleadxs, sector, menu, almuerzo y fecha\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"utn.h"
+
+1538954105 source:c:\users\user\desktop\abm vav\abm - pedido en clase - empleadxs, sector, menu, almuerzo y fecha\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1538953335 source:c:\users\user\desktop\abm vav\abm - pedido en clase - empleadxs, sector, menu, almuerzo y fecha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"empleadxs.h"
+	"menu.h"
+	"almuerzo.h"
+

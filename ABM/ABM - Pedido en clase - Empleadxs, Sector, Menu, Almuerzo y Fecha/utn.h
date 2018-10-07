@@ -27,4 +27,9 @@ void getValidString(char requestMessage[],char errorMessage[], char input[]);
 
 void cleanStdin(void);
 
+int isSexCharacter(char caracter);
+int getValidSexChar(char mensaje[], char errorMensaje[]);
+void toCapsFirst(char cadena[]);
+
+
 #endif

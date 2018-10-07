@@ -62,7 +62,7 @@ int altaEmpleadx(eEmpleadx* empl, int lenEmp, eSector* sector, int lenSec){
         legajo = index + 1;
         altaEmpl.legajo = legajo;
         getValidString("Ingrese nombre: ", "Valor no valido.", altaEmpl.nombre);
-        altaEmpl.sexo = getChar("Ingrese sexo: ");
+        altaEmpl.sexo = getValidSexChar("Ingrese sexo: ", "Sexo invalido, ingrese f o m: ");
         altaEmpl.sueldo =getValidInt("Ingrese Sueldo: ","Sueldo no valido", 10000, 99999);
         altaEmpl.idSector = seleccionarSector(sector, lenSec);
         altaEmpl.isEmpty = 0;
@@ -97,7 +97,7 @@ int modificarEmpleadx(eEmpleadx* empl, int lenEmp, eSector* sector, int lenSec){
                         printf("Se ha modificado el dato con exito.\n\n");
                         break;
                     case 2:
-                        modiEmpl.sexo = getChar("Ingrese sexo: ");
+                        modiEmpl.sexo = getValidSexChar("Ingrese sexo: ", "Sexo invalido, ingrese f o m: ");
                         empl[idAux].sexo = modiEmpl.sexo;
                         printf("Se ha modificado el dato con exito.\n\n");
                         break;
@@ -177,6 +177,7 @@ int seleccionarSector(eSector* sector, int lenSec){
     for(int i=0; i<lenSec; i++){
         printf("%d - %s\n", sector[i].id, sector[i].descripcion);
     }
+    printf("\n");
     idSector = getValidInt("Seleccione ID de sector: ", "ID no valida.", 0, 500);
     return idSector;
 }

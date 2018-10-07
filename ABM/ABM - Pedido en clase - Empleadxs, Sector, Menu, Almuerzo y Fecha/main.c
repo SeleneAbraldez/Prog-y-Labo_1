@@ -13,6 +13,7 @@
 
 int main(){
     char seguir = 's';
+    char ayuda[]= "hola que tal .";
     eEmpleadx lista[CANTEMPL];
     eSector sectores[]={
         {1, "RRHH"},
@@ -59,6 +60,10 @@ int main(){
             break;
         case 10:
             imprimirAlmuerzos(almuerzos, CANTALMUER, lista, CANTEMPL, comidas, 5);
+            break;
+        case 11:
+            toCapsFirst(ayuda);
+            printf("%s", ayuda);
             break;
         case 0:
             hardcodeoEmpleadxs(lista);
