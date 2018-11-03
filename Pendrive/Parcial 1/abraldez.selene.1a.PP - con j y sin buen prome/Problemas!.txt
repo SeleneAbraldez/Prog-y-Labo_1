@@ -1,0 +1,14 @@
+11. No se como pasar el promedio a la funcion bajoPromedio sin repetir codigo ni volver a correr la funcion. pasarla al main no funciona
+
+
+
+
+
+
+
+
+
+
+problema no obligatoio, ya no la estoy iusanfo, epro queiro hacer una funcion cargar importe, gelp
+
+127 - 
