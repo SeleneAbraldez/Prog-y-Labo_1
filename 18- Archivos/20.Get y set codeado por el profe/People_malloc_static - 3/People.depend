@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1476059796 source:/Users/Mauro/Documents/workspace_videos_c/People/main.c
+	<stdio.h>
+	<stdlib.h>
+	"People.h"
+
+1476059891 /Users/Mauro/Documents/workspace_videos_c/People/People.h
+
+1476059945 source:/Users/Mauro/Documents/workspace_videos_c/People/People.c
+	<stdlib.h>
+	"People.h"
+
+1476060823 source:/Users/Mauro/Documents/workspace_videos_c/Memoria_Dinamica/People/Person.c
+	<stdlib.h>
+	"Person.h"
+
+1476060823 /Users/Mauro/Documents/workspace_videos_c/Memoria_Dinamica/People/Person.h
+
+1540933398 source:c:\documents and settings\usuario\mis documentos\descargas\people\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Person.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1540932146 c:\documents and settings\usuario\mis documentos\descargas\people\person.h
+
+1540933310 source:c:\documents and settings\usuario\mis documentos\descargas\people\person.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Person.h"
+
+1540937563 source:c:\users\alumno\desktop\people_malloc_static\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Person.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1540937564 c:\users\alumno\desktop\people_malloc_static\person.h
+
+1540942379 source:c:\users\alumno\desktop\people_malloc_static\person.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Person.h"
+
+1540937564 source:d:\abraldez.selene\20\people_malloc_static - 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Person.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1540942380 source:d:\abraldez.selene\20\people_malloc_static - 3\person.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Person.h"
+

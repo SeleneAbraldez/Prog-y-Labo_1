@@ -1,0 +1,193 @@
+# depslib dependency file v1.0
+1538841256 source:c:\users\user\desktop\abm vav\abm\almuerzo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleadxs.h"
+	"almuerzo.h"
+	"utn.h"
+
+1538841283 c:\users\user\desktop\abm vav\abm\almuerzo.h
+	"empleadxs.h"
+
+1538841140 c:\users\user\desktop\abm vav\abm\utn.h
+
+1538841140 source:c:\users\user\desktop\abm vav\abm\empleadxs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"almuerzo.h"
+	"utn.h"
+	"empleadxs.h"
+
+1538684122 source:c:\users\user\desktop\abm vav\abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleadxs.h"
+	"menu.h"
+	"almuerzo.h"
+	"utn.h"
+
+1538841140 c:\users\user\desktop\abm vav\abm\empleadxs.h
+
+1538683635 c:\users\user\desktop\abm vav\abm\menu.h
+
+1538683626 source:c:\users\user\desktop\abm vav\abm\menu.c
+
+1538841140 source:c:\users\user\desktop\abm vav\abm\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1538920739 source:c:\users\user\desktop\abm vav\abm - copia - copia\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"utn.h"
+
+1538926966 source:c:\users\user\desktop\abm vav\abm - copia - copia\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1538927702 source:c:\users\user\desktop\abm vav\abm - copia - copia\almuerzo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"almuerzo.h"
+	"utn.h"
+	"empleadxs.h"
+	"menu.h"
+
+1538925344 c:\users\user\desktop\abm vav\abm - copia - copia\empleadxs.h
+
+1538926849 c:\users\user\desktop\abm vav\abm - copia - copia\almuerzo.h
+	"empleadxs.h"
+	"menu.h"
+
+1538841140 c:\users\user\desktop\abm vav\abm - copia - copia\utn.h
+
+1538926849 source:c:\users\user\desktop\abm vav\abm - copia - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"empleadxs.h"
+	"menu.h"
+	"almuerzo.h"
+
+1538920598 c:\users\user\desktop\abm vav\abm - copia - copia\menu.h
+
+1538927092 source:c:\users\user\desktop\abm vav\abm - copia - copia\empleadxs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleadxs.h"
+	"menu.h"
+	"utn.h"
+
+1538927702 source:c:\users\user\desktop\abm vav\abm - pedido en clase - empleadxs, sector, menu, almuerzo y fecha\almuerzo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"almuerzo.h"
+	"utn.h"
+	"empleadxs.h"
+	"menu.h"
+
+1538926849 c:\users\user\desktop\abm vav\abm - pedido en clase - empleadxs, sector, menu, almuerzo y fecha\almuerzo.h
+	"empleadxs.h"
+	"menu.h"
+
+1538925344 c:\users\user\desktop\abm vav\abm - pedido en clase - empleadxs, sector, menu, almuerzo y fecha\empleadxs.h
+
+1538920598 c:\users\user\desktop\abm vav\abm - pedido en clase - empleadxs, sector, menu, almuerzo y fecha\menu.h
+
+1538953645 c:\users\user\desktop\abm vav\abm - pedido en clase - empleadxs, sector, menu, almuerzo y fecha\utn.h
+
+1538952239 source:c:\users\user\desktop\abm vav\abm - pedido en clase - empleadxs, sector, menu, almuerzo y fecha\empleadxs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleadxs.h"
+	"menu.h"
+	"utn.h"
+
+1538920739 source:c:\users\user\desktop\abm vav\abm - pedido en clase - empleadxs, sector, menu, almuerzo y fecha\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"utn.h"
+
+1538954105 source:c:\users\user\desktop\abm vav\abm - pedido en clase - empleadxs, sector, menu, almuerzo y fecha\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1538953335 source:c:\users\user\desktop\abm vav\abm - pedido en clase - empleadxs, sector, menu, almuerzo y fecha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"empleadxs.h"
+	"menu.h"
+	"almuerzo.h"
+
+1538927704 source:e:\abm - pedido en clase - empleadxs, sector, menu, almuerzo y fecha\almuerzo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"almuerzo.h"
+	"utn.h"
+	"empleadxs.h"
+	"menu.h"
+
+1538926850 e:\abm - pedido en clase - empleadxs, sector, menu, almuerzo y fecha\almuerzo.h
+	"empleadxs.h"
+	"menu.h"
+
+1538925346 e:\abm - pedido en clase - empleadxs, sector, menu, almuerzo y fecha\empleadxs.h
+
+1538920600 e:\abm - pedido en clase - empleadxs, sector, menu, almuerzo y fecha\menu.h
+
+1538953646 e:\abm - pedido en clase - empleadxs, sector, menu, almuerzo y fecha\utn.h
+
+1538954168 source:e:\abm - pedido en clase - empleadxs, sector, menu, almuerzo y fecha\empleadxs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleadxs.h"
+	"menu.h"
+	"utn.h"
+
+1538953336 source:e:\abm - pedido en clase - empleadxs, sector, menu, almuerzo y fecha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"empleadxs.h"
+	"menu.h"
+	"almuerzo.h"
+
+1538920740 source:e:\abm - pedido en clase - empleadxs, sector, menu, almuerzo y fecha\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"utn.h"
+
+1538954106 source:e:\abm - pedido en clase - empleadxs, sector, menu, almuerzo y fecha\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+

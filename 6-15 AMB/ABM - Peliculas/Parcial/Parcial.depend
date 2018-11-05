@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1538613184 source:c:\users\user\desktop\abm vav\peliculas\parcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1538686419 source:c:\users\user\desktop\abm vav\peliculas\parcial\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"peliculas.h"
+
+1538607922 c:\users\user\desktop\abm vav\peliculas\parcial\utn.h
+
+1538686693 c:\users\user\desktop\abm vav\peliculas\parcial\peliculas.h
+
+1538686768 source:c:\users\user\desktop\abm vav\peliculas\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"peliculas.h"
+

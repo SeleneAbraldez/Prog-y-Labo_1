@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1476059796 source:/Users/Mauro/Documents/workspace_videos_c/People/main.c
+	<stdio.h>
+	<stdlib.h>
+	"People.h"
+
+1476059891 /Users/Mauro/Documents/workspace_videos_c/People/People.h
+
+1476059945 source:/Users/Mauro/Documents/workspace_videos_c/People/People.c
+	<stdlib.h>
+	"People.h"
+
+1476060823 source:/Users/Mauro/Documents/workspace_videos_c/Memoria_Dinamica/People/Person.c
+	<stdlib.h>
+	"Person.h"
+
+1476060823 /Users/Mauro/Documents/workspace_videos_c/Memoria_Dinamica/People/Person.h
+
+1540988966 source:d:\abraldez.selene\20\people\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Person.h"
+
+1476820450 d:\abraldez.selene\20\people\person.h
+
+1476820450 source:d:\abraldez.selene\20\people\person.c
+	<stdlib.h>
+	"Person.h"
+

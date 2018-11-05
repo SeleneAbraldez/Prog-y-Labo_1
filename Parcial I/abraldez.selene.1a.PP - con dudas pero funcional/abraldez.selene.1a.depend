@@ -1,0 +1,475 @@
+# depslib dependency file v1.0
+1539007406 source:d:\abraldez.parcial\abraldez.selene.1a\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquileres.h"
+	"utn.h"
+	"juegos.h"
+	"clientes.h"
+
+1539010570 source:d:\abraldez.parcial\abraldez.selene.1a\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+	"utn.h"
+
+1539006549 source:d:\abraldez.parcial\abraldez.selene.1a\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+	"utn.h"
+
+1539009453 d:\abraldez.parcial\abraldez.selene.1a\juegos.h
+
+1539010357 source:d:\abraldez.parcial\abraldez.selene.1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+	"clientes.h"
+	"alquileres.h"
+	"utn.h"
+
+1539011033 source:d:\abraldez.parcial\abraldez.selene.1a\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1539010260 d:\abraldez.parcial\abraldez.selene.1a\utn.h
+
+1539009453 d:\abraldez.parcial\abraldez.selene.1a\clientes.h
+
+1539009453 d:\abraldez.parcial\abraldez.selene.1a\alquileres.h
+	"juegos.h"
+	"clientes.h"
+
+1539007408 source:g:\abraldez.selene.1a\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquileres.h"
+	"utn.h"
+	"juegos.h"
+	"clientes.h"
+
+1539009454 g:\abraldez.selene.1a\alquileres.h
+	"juegos.h"
+	"clientes.h"
+
+1539009454 g:\abraldez.selene.1a\juegos.h
+
+1539111532 g:\abraldez.selene.1a\clientes.h
+
+1539010262 g:\abraldez.selene.1a\utn.h
+
+1539010572 source:g:\abraldez.selene.1a\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+	"utn.h"
+
+1539006550 source:g:\abraldez.selene.1a\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+	"utn.h"
+
+1539011042 source:g:\abraldez.selene.1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+	"clientes.h"
+	"alquileres.h"
+	"utn.h"
+
+1539011034 source:g:\abraldez.selene.1a\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1539007408 source:c:\users\user\desktop\pendrive\abraldez.selene.1a\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquileres.h"
+	"utn.h"
+	"juegos.h"
+	"clientes.h"
+
+1539009454 c:\users\user\desktop\pendrive\abraldez.selene.1a\alquileres.h
+	"juegos.h"
+	"clientes.h"
+
+1539009454 c:\users\user\desktop\pendrive\abraldez.selene.1a\juegos.h
+
+1539111532 c:\users\user\desktop\pendrive\abraldez.selene.1a\clientes.h
+
+1539010262 c:\users\user\desktop\pendrive\abraldez.selene.1a\utn.h
+
+1539112855 source:c:\users\user\desktop\pendrive\abraldez.selene.1a\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+	"utn.h"
+
+1539006550 source:c:\users\user\desktop\pendrive\abraldez.selene.1a\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+	"utn.h"
+
+1539011042 source:c:\users\user\desktop\pendrive\abraldez.selene.1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+	"clientes.h"
+	"alquileres.h"
+	"utn.h"
+
+1539112872 source:c:\users\user\desktop\pendrive\abraldez.selene.1a\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1539007408 source:c:\users\user\desktop\pendrive\abraldez.selene.1a - copia (2)\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquileres.h"
+	"utn.h"
+	"juegos.h"
+	"clientes.h"
+
+1539009454 c:\users\user\desktop\pendrive\abraldez.selene.1a - copia (2)\alquileres.h
+	"juegos.h"
+	"clientes.h"
+
+1539009454 c:\users\user\desktop\pendrive\abraldez.selene.1a - copia (2)\juegos.h
+
+1539111532 c:\users\user\desktop\pendrive\abraldez.selene.1a - copia (2)\clientes.h
+
+1539114854 c:\users\user\desktop\pendrive\abraldez.selene.1a - copia (2)\utn.h
+
+1539114835 source:c:\users\user\desktop\pendrive\abraldez.selene.1a - copia (2)\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+	"utn.h"
+
+1539114835 source:c:\users\user\desktop\pendrive\abraldez.selene.1a - copia (2)\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+	"utn.h"
+
+1539011042 source:c:\users\user\desktop\pendrive\abraldez.selene.1a - copia (2)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+	"clientes.h"
+	"alquileres.h"
+	"utn.h"
+
+1539114550 source:c:\users\user\desktop\pendrive\abraldez.selene.1a - copia (2)\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1539134042 source:c:\users\user\desktop\pendrive\abraldez.selene.1a - informes\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+	"utn.h"
+
+1539009454 c:\users\user\desktop\pendrive\abraldez.selene.1a - informes\juegos.h
+
+1539114854 c:\users\user\desktop\pendrive\abraldez.selene.1a - informes\utn.h
+
+1539133368 source:c:\users\user\desktop\pendrive\abraldez.selene.1a - informes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+	"clientes.h"
+	"alquileres.h"
+	"utn.h"
+
+1539111532 c:\users\user\desktop\pendrive\abraldez.selene.1a - informes\clientes.h
+
+1539118448 c:\users\user\desktop\pendrive\abraldez.selene.1a - informes\alquileres.h
+	"juegos.h"
+	"clientes.h"
+
+1539133790 source:c:\users\user\desktop\pendrive\abraldez.selene.1a - informes\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1539133956 source:c:\users\user\desktop\pendrive\abraldez.selene.1a - informes\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+	"utn.h"
+
+1539134042 source:c:\users\user\desktop\pendrive\abraldez.selene.1a - informes\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquileres.h"
+	"utn.h"
+	"juegos.h"
+	"clientes.h"
+
+1539182594 source:d:\abraldez.selene.1a\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquileres.h"
+	"utn.h"
+	"juegos.h"
+	"clientes.h"
+
+1539118450 d:\abraldez.selene.1a\alquileres.h
+	"juegos.h"
+	"clientes.h"
+
+1539179847 d:\abraldez.selene.1a\juegos.h
+
+1539179847 d:\abraldez.selene.1a\clientes.h
+
+1539114856 d:\abraldez.selene.1a\utn.h
+
+1539179847 source:d:\abraldez.selene.1a\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+	"utn.h"
+
+1539179670 source:d:\abraldez.selene.1a\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+	"utn.h"
+
+1539182666 source:d:\abraldez.selene.1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+	"clientes.h"
+	"alquileres.h"
+	"utn.h"
+
+1539180328 source:d:\abraldez.selene.1a\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1539179848 source:d:\abraldez.selene.1a.pp\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+	"utn.h"
+
+1539179848 d:\abraldez.selene.1a.pp\clientes.h
+
+1539114856 d:\abraldez.selene.1a.pp\utn.h
+
+1539179672 source:d:\abraldez.selene.1a.pp\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+	"utn.h"
+
+1539179848 d:\abraldez.selene.1a.pp\juegos.h
+
+1539180330 source:d:\abraldez.selene.1a.pp\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1539179848 source:d:\abraldez.selene.1a.pp - copia\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+	"utn.h"
+
+1539179848 d:\abraldez.selene.1a.pp - copia\clientes.h
+
+1539114856 d:\abraldez.selene.1a.pp - copia\utn.h
+
+1539179672 source:d:\abraldez.selene.1a.pp - copia\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+	"utn.h"
+
+1539179848 d:\abraldez.selene.1a.pp - copia\juegos.h
+
+1539180330 source:d:\abraldez.selene.1a.pp - copia\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1539378758 source:d:\abraldez.selene.1a.pp - copia\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquileres.h"
+	"utn.h"
+	"juegos.h"
+	"clientes.h"
+
+1539375942 d:\abraldez.selene.1a.pp - copia\alquileres.h
+	"juegos.h"
+	"clientes.h"
+
+1539378508 source:d:\abraldez.selene.1a.pp - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+	"clientes.h"
+	"alquileres.h"
+	"utn.h"
+
+1540954610 source:e:\parcial 1\abraldez.selene.1a.pp - copia\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquileres.h"
+	"utn.h"
+	"juegos.h"
+	"clientes.h"
+
+1539375942 e:\parcial 1\abraldez.selene.1a.pp - copia\alquileres.h
+	"juegos.h"
+	"clientes.h"
+
+1539179848 e:\parcial 1\abraldez.selene.1a.pp - copia\juegos.h
+
+1539179848 e:\parcial 1\abraldez.selene.1a.pp - copia\clientes.h
+
+1539114856 e:\parcial 1\abraldez.selene.1a.pp - copia\utn.h
+
+1539179848 source:e:\parcial 1\abraldez.selene.1a.pp - copia\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+	"utn.h"
+
+1539179672 source:e:\parcial 1\abraldez.selene.1a.pp - copia\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+	"utn.h"
+
+1540840922 source:e:\parcial 1\abraldez.selene.1a.pp - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+	"clientes.h"
+	"alquileres.h"
+	"utn.h"
+
+1539180330 source:e:\parcial 1\abraldez.selene.1a.pp - copia\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1540345550 source:f:\parcial 1\abraldez.selene.1a.pp - copia\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquileres.h"
+	"utn.h"
+	"juegos.h"
+	"clientes.h"
+
+1539375942 f:\parcial 1\abraldez.selene.1a.pp - copia\alquileres.h
+	"juegos.h"
+	"clientes.h"
+
+1539179848 f:\parcial 1\abraldez.selene.1a.pp - copia\juegos.h
+
+1539179848 f:\parcial 1\abraldez.selene.1a.pp - copia\clientes.h
+
+1539114856 f:\parcial 1\abraldez.selene.1a.pp - copia\utn.h
+
+1539179848 source:f:\parcial 1\abraldez.selene.1a.pp - copia\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+	"utn.h"
+
+1539179672 source:f:\parcial 1\abraldez.selene.1a.pp - copia\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+	"utn.h"
+
+1540337676 source:f:\parcial 1\abraldez.selene.1a.pp - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+	"clientes.h"
+	"alquileres.h"
+	"utn.h"
+
+1539180330 source:f:\parcial 1\abraldez.selene.1a.pp - copia\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
