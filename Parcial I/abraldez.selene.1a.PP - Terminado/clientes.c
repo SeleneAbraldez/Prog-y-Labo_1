@@ -61,10 +61,10 @@ int altaCliente(eClientes* clien, int lenClien){
         idC = index + 1;
         altaCliente.idC = idC;
         printf("-Cliente %d\n",idC);
-        getValidStringLen("Ingrese apellido: ", "Valor no valido.", "Dato debe ser menor a 50 caracteres: " ,  altaCliente.apellido, 51);
-        getValidStringLen("Ingrese nombre: ", "Valor no valido.", "Dato debe ser menor a 50 caracteres: ", altaCliente.nombre, 51);
+        getValidStringLen("Ingrese apellido: ", "Valor no valido. ", "Dato debe ser menor a 50 caracteres. " ,  altaCliente.apellido, 51);
+        getValidStringLen("Ingrese nombre: ", "Valor no valido. ", "Dato debe ser menor a 50 caracteres. ", altaCliente.nombre, 51);
         altaCliente.sexo = getValidSexChar("Ingrese sexo: ", "Sexo no valido, ingrese f o m: ");
-        getValidStringAlfaNumericoLen("Ingrese domicilio: ", "Valor no valido: ", "Dato debe ser menor a 50 caracteres: ", altaCliente.domicilio, 51);
+        getValidStringAlfaNumericoLen("Ingrese domicilio: ", "Valor no valido. ", "Dato debe ser menor a 50 caracteres. ", altaCliente.domicilio, 51);
         altaCliente.isEmpty = 0;
         clien[index] = altaCliente;
         ret = 0;
@@ -92,12 +92,12 @@ int modificarCliente(eClientes* clien, int lenClien){
                 scanf("%d", &menuModi);
                 switch(menuModi){
                     case 1:
-                        getValidStringLen("Ingrese nuevo apellido: ", "Valor no valido.", "Dato debe ser menor a 50 caracteres: ", modiClien.apellido, 51);
+                        getValidStringLen("Ingrese nuevo apellido: ", "Valor no valido. ", "Dato debe ser menor a 50 caracteres. ", modiClien.apellido, 51);
                         strcpy(clien[idAux].apellido, modiClien.apellido);
                         printf("Se ha modificado el dato con exito.\n\n");
                         break;
                     case 2:
-                        getValidStringLen("Ingrese nuevo nombre: ", "Valor no valido.", "Dato debe ser menor a 50 caracteres: ", modiClien.nombre, 51);
+                        getValidStringLen("Ingrese nuevo nombre: ", "Valor no valido. ", "Dato debe ser menor a 50 caracteres. ", modiClien.nombre, 51);
                         strcpy(clien[idAux].nombre, modiClien.nombre);
                         printf("Se ha modificado el dato con exito.\n\n");
                         break;
@@ -107,7 +107,7 @@ int modificarCliente(eClientes* clien, int lenClien){
                         printf("Se ha modificado el dato con exito.\n\n");
                         break;
                     case 4:
-                        getValidStringAlfaNumericoLen("Ingrese nuevo domicilio: ", "Valor no valido.", "Dato debe ser menor a 50 caracteres: ", modiClien.domicilio, 51);
+                        getValidStringAlfaNumericoLen("Ingrese nuevo domicilio: ", "Valor no valido. ", "Dato debe ser menor a 50 caracteres. ", modiClien.domicilio, 51);
                         strcpy(clien[idAux].domicilio, modiClien.domicilio);
                         printf("Se ha modificado el dato con exito.\n\n");
                         break;

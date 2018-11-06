@@ -573,3 +573,53 @@
 	"juegos.h"
 	"clientes.h"
 
+1541192662 source:e:\parcial 1\abraldez.selene.1a.pp - terminado\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+	"utn.h"
+
+1539179848 e:\parcial 1\abraldez.selene.1a.pp - terminado\clientes.h
+
+1541210548 e:\parcial 1\abraldez.selene.1a.pp - terminado\utn.h
+
+1541192372 source:e:\parcial 1\abraldez.selene.1a.pp - terminado\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+	"utn.h"
+
+1539179848 e:\parcial 1\abraldez.selene.1a.pp - terminado\juegos.h
+
+1541213326 source:e:\parcial 1\abraldez.selene.1a.pp - terminado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+	"clientes.h"
+	"alquileres.h"
+	"utn.h"
+
+1541213176 e:\parcial 1\abraldez.selene.1a.pp - terminado\alquileres.h
+	"juegos.h"
+	"clientes.h"
+
+1541213374 source:e:\parcial 1\abraldez.selene.1a.pp - terminado\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquileres.h"
+	"utn.h"
+	"juegos.h"
+	"clientes.h"
+
+1541536892 source:e:\parcial 1\abraldez.selene.1a.pp - terminado\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+

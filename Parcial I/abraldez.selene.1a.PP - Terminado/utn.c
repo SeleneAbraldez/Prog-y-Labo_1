@@ -257,18 +257,21 @@ int getValidSexChar(char mensaje[], char errorMensaje[]){
     }while (isSexCharacter(aux)==0);
     return aux;
 }
+
 int getValidStringAlfaNumericoLen(char requestMessage[],char errorMessage[], char errorMessageLenght[],char input[], int maxLenght){
     int retorno = -1;
     char buffer[1024];
-    if(!getStringAlfaNumerico(requestMessage, buffer)){
-        printf("%s", errorMessage);
+    while(1){
+        if(!getStringAlfaNumerico(requestMessage, buffer)){
+            printf("%s", errorMessage);
+        }
+        if(strlen(buffer)>= maxLenght){
+            printf("%s", errorMessageLenght);
+        }
+        retorno = 0;
+        strcpy(input, buffer);
+        break;
     }
-    if(strlen(buffer)>= maxLenght){
-        printf("%s", errorMessageLenght);
-    }
-    retorno = 0;
-    strcpy(input, buffer);
-
     return retorno;
 }
 
@@ -295,17 +298,21 @@ int getValidStringLen(char requestMessage[],char errorMessage[], char errorMessa
     int retorno=-1;
     char buffer[1024];
 
-    if (!getStringLetras(requestMessage,buffer))
-    {
-        printf ("%s",errorMessage);
+    while(1){
+        if (!getStringLetras(requestMessage,buffer))
+        {
+            printf ("%s",errorMessage);
+            continue;
+        }
+        if(strlen(buffer) >= maxLenght)
+        {
+            printf ("%s",errorMessageLenght);
+            continue;
+        }
+        retorno=0;
+        strcpy(input,buffer);
+        break;
     }
-    if(strlen(buffer) >= maxLenght)
-    {
-        printf ("%s",errorMessageLenght);
-
-    }
-    retorno=0;
-    strcpy(input,buffer);
     return retorno;
 }
 

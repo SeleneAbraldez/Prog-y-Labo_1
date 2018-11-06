@@ -60,7 +60,7 @@ int altaJuego(eJuegos* jueg, int lenJueg){
         idJ = index + 1;
         altaJueg.idJ = idJ;
         printf("-Juego %d\n",idJ);
-        getValidStringLen("Ingrese descripcion: ", "Valor no valido.", "Dato debe ser menor a 50 caracteres: ", altaJueg.descripcion, 51);
+        getValidStringLen("Ingrese descripcion: ", "Valor no valido. ", "Dato debe ser menor a 50 caracteres. ", altaJueg.descripcion, 51);
         altaJueg.importe = getValidFloat("Ingrese importe: ", "Valor no valido. ", 0 , 100000);
         altaJueg.isEmpty = 0;
         jueg[index] = altaJueg;
@@ -87,7 +87,7 @@ int modificarJuego(eJuegos* jueg, int lenJueg){
                 scanf("%d", &menuModi);
                 switch(menuModi){
                     case 1:
-                        getValidStringLen("Ingrese nueva descripcion: ", "Valor no valido.","Dato debe ser menor a 50 caracteres: ", modiJueg.descripcion, 51);
+                        getValidStringLen("Ingrese nueva descripcion: ", "Valor no valido. ","Dato debe ser menor a 50 caracteres: ", modiJueg.descripcion, 51);
                         strcpy(jueg[idAux].descripcion, modiJueg.descripcion);
                         printf("Se ha modificado el dato con exito.\n\n");
                         break;
