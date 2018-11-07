@@ -1,0 +1,25 @@
+1) entender el else
+
+2) estoy usando el mismo y funca, pero no deberia? tendira que aplicar fread
+
+3)vv
+
+4) no se usar el ll, no se si hay algo que te encientre el numero y como aplicarlo, no se si el new parametro hay qeu suar guardando el resto de las cosas, no seeeee
+
+5) no se usar el ll, con encontrar y con delete???
+
+6)vv
+ 
+7)vv
+
+8)vv
+
+9) aplicar el fwrite
+
+10)vv
+
+
+
+el delete????
+
+no se como pensar el no hay empeladxs cargadxs si la bandera de la lista no significa nada porque puedio hacer un alta sin abrir algo antes
