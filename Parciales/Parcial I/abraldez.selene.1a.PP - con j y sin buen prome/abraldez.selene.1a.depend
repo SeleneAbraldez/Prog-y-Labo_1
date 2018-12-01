@@ -523,3 +523,53 @@
 	"juegos.h"
 	"clientes.h"
 
+1541452741 source:d:\user\git\programacion y labo\parciales\parcial i\abraldez.selene.1a.pp - con j y sin buen prome\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquileres.h"
+	"utn.h"
+	"juegos.h"
+	"clientes.h"
+
+1541452741 d:\user\git\programacion y labo\parciales\parcial i\abraldez.selene.1a.pp - con j y sin buen prome\alquileres.h
+	"juegos.h"
+	"clientes.h"
+
+1541452741 d:\user\git\programacion y labo\parciales\parcial i\abraldez.selene.1a.pp - con j y sin buen prome\juegos.h
+
+1541452741 d:\user\git\programacion y labo\parciales\parcial i\abraldez.selene.1a.pp - con j y sin buen prome\clientes.h
+
+1541452741 d:\user\git\programacion y labo\parciales\parcial i\abraldez.selene.1a.pp - con j y sin buen prome\utn.h
+
+1541452741 source:d:\user\git\programacion y labo\parciales\parcial i\abraldez.selene.1a.pp - con j y sin buen prome\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+	"utn.h"
+
+1541452741 source:d:\user\git\programacion y labo\parciales\parcial i\abraldez.selene.1a.pp - con j y sin buen prome\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+	"utn.h"
+
+1541452741 source:d:\user\git\programacion y labo\parciales\parcial i\abraldez.selene.1a.pp - con j y sin buen prome\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+	"clientes.h"
+	"alquileres.h"
+	"utn.h"
+
+1541452741 source:d:\user\git\programacion y labo\parciales\parcial i\abraldez.selene.1a.pp - con j y sin buen prome\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
