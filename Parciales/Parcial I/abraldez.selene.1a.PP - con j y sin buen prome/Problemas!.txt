@@ -1,2 +1,0 @@
-revisar como funca promedio
-max y min esta hecho con j, no esta bien eso, cambiar

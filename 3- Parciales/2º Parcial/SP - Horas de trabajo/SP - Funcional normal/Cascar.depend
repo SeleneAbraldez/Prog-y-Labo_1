@@ -1,0 +1,423 @@
+# depslib dependency file v1.0
+1542310876 source:c:\users\user\desktop\cascaron\cascar\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1542310876 c:\users\user\desktop\cascaron\cascar\linkedlist.h
+
+1542311017 source:c:\users\user\desktop\cascaron\cascar\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1541793953 source:c:\users\user\desktop\cascaron\cascar\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1541631412 c:\users\user\desktop\cascaron\cascar\employee.h
+
+1533133022 c:\users\user\desktop\cascaron\cascar\parser.h
+
+1541640386 c:\users\user\desktop\cascaron\cascar\utn.h
+
+1541723668 source:c:\users\user\desktop\cascaron\cascar\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541725590 source:c:\users\user\desktop\cascaron\cascar\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541640428 source:c:\users\user\desktop\cascaron\cascar\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1541599672 c:\users\user\desktop\cascaron\cascar\controller.h
+
+1541725590 source:c:\users\user\desktop\cascaron\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1542660316 c:\users\user\desktop\cascaron\linkedlist.h
+
+1542678369 c:\users\user\desktop\cascaron\employee.h
+
+1541640428 source:c:\users\user\desktop\cascaron\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1541640386 c:\users\user\desktop\cascaron\utn.h
+
+1542679844 source:c:\users\user\desktop\cascaron\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1533133022 c:\users\user\desktop\cascaron\parser.h
+
+1542677111 source:c:\users\user\desktop\cascaron\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1542752538 source:c:\users\user\desktop\cascaron\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1542676803 c:\users\user\desktop\cascaron\controller.h
+
+1542679844 source:c:\users\user\desktop\cascaron\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1542811368 source:d:\abraldez.selene.1a\abraldezselene1a\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1542660318 d:\abraldez.selene.1a\abraldezselene1a\linkedlist.h
+
+1542806504 d:\abraldez.selene.1a\abraldezselene1a\employee.h
+
+1533133022 d:\abraldez.selene.1a\abraldezselene1a\parser.h
+
+1541640386 d:\abraldez.selene.1a\abraldezselene1a\utn.h
+
+1542811803 source:d:\abraldez.selene.1a\abraldezselene1a\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1542812055 source:d:\abraldez.selene.1a\abraldezselene1a\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1542803491 source:d:\abraldez.selene.1a\abraldezselene1a\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541640428 source:d:\abraldez.selene.1a\abraldezselene1a\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1542811364 source:d:\abraldez.selene.1a\abraldezselene1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1542805116 d:\abraldez.selene.1a\abraldezselene1a\controller.h
+
+1542839651 source:c:\users\user\desktop\abraldez.selene.1a\abraldezselene1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1542839488 c:\users\user\desktop\abraldez.selene.1a\abraldezselene1a\linkedlist.h
+
+1542838515 c:\users\user\desktop\abraldez.selene.1a\abraldezselene1a\controller.h
+
+1542839644 c:\users\user\desktop\abraldez.selene.1a\abraldezselene1a\employee.h
+
+1542803492 source:c:\users\user\desktop\abraldez.selene.1a\abraldezselene1a\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541640428 source:c:\users\user\desktop\abraldez.selene.1a\abraldezselene1a\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1541640386 c:\users\user\desktop\abraldez.selene.1a\abraldezselene1a\utn.h
+
+1542839488 source:c:\users\user\desktop\abraldez.selene.1a\abraldezselene1a\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1542839488 source:c:\users\user\desktop\abraldez.selene.1a\abraldezselene1a\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1542839447 source:c:\users\user\desktop\abraldez.selene.1a\abraldezselene1a\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1533133022 c:\users\user\desktop\abraldez.selene.1a\abraldezselene1a\parser.h
+
+1543338898 source:c:\users\user\desktop\abraldez.selene.1a - intentos\abraldezselene1a - intento copa\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1542839488 c:\users\user\desktop\abraldez.selene.1a - intentos\abraldezselene1a - intento copa\linkedlist.h
+
+1542839644 c:\users\user\desktop\abraldez.selene.1a - intentos\abraldezselene1a - intento copa\employee.h
+
+1533133022 c:\users\user\desktop\abraldez.selene.1a - intentos\abraldezselene1a - intento copa\parser.h
+
+1541640386 c:\users\user\desktop\abraldez.selene.1a - intentos\abraldezselene1a - intento copa\utn.h
+
+1543339162 source:c:\users\user\desktop\abraldez.selene.1a - intentos\abraldezselene1a - intento copa\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1543336946 source:c:\users\user\desktop\abraldez.selene.1a - intentos\abraldezselene1a - intento copa\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1542839651 source:c:\users\user\desktop\abraldez.selene.1a - intentos\abraldezselene1a - intento copa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1542838515 c:\users\user\desktop\abraldez.selene.1a - intentos\abraldezselene1a - intento copa\controller.h
+
+1542803492 source:c:\users\user\desktop\abraldez.selene.1a - intentos\abraldezselene1a - intento copa\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541640428 source:c:\users\user\desktop\abraldez.selene.1a - intentos\abraldezselene1a - intento copa\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1543339340 source:c:\users\user\desktop\abraldez.selene.1a - intentos\abraldezselene1a - copia funcional\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1542839488 c:\users\user\desktop\abraldez.selene.1a - intentos\abraldezselene1a - copia funcional\linkedlist.h
+
+1542839644 c:\users\user\desktop\abraldez.selene.1a - intentos\abraldezselene1a - copia funcional\employee.h
+
+1533133022 c:\users\user\desktop\abraldez.selene.1a - intentos\abraldezselene1a - copia funcional\parser.h
+
+1541640386 c:\users\user\desktop\abraldez.selene.1a - intentos\abraldezselene1a - copia funcional\utn.h
+
+1543339162 source:c:\users\user\desktop\abraldez.selene.1a - intentos\abraldezselene1a - copia funcional\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1543336946 source:c:\users\user\desktop\abraldez.selene.1a - intentos\abraldezselene1a - copia funcional\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1542839651 source:c:\users\user\desktop\abraldez.selene.1a - intentos\abraldezselene1a - copia funcional\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1543616468 c:\users\user\desktop\abraldez.selene.1a - intentos\abraldezselene1a - copia funcional\controller.h
+
+1542803492 source:c:\users\user\desktop\abraldez.selene.1a - intentos\abraldezselene1a - copia funcional\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541640428 source:c:\users\user\desktop\abraldez.selene.1a - intentos\abraldezselene1a - copia funcional\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1543339342 source:e:\segundo parcial copia funcional normal\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1542839490 e:\segundo parcial copia funcional normal\linkedlist.h
+
+1542839646 e:\segundo parcial copia funcional normal\employee.h
+
+1533133022 e:\segundo parcial copia funcional normal\parser.h
+
+1541640386 e:\segundo parcial copia funcional normal\utn.h
+
+1543339164 source:e:\segundo parcial copia funcional normal\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1543336948 source:e:\segundo parcial copia funcional normal\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1542839652 source:e:\segundo parcial copia funcional normal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1543616470 e:\segundo parcial copia funcional normal\controller.h
+
+1542803492 source:e:\segundo parcial copia funcional normal\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541640428 source:e:\segundo parcial copia funcional normal\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1543339342 source:e:\4- preparado final\sp - horas de trabajo\sp - funcional normal\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1542839490 e:\4- preparado final\sp - horas de trabajo\sp - funcional normal\linkedlist.h
+
+1542839646 e:\4- preparado final\sp - horas de trabajo\sp - funcional normal\employee.h
+
+1533133022 e:\4- preparado final\sp - horas de trabajo\sp - funcional normal\parser.h
+
+1541640386 e:\4- preparado final\sp - horas de trabajo\sp - funcional normal\utn.h
+
+1543339164 source:e:\4- preparado final\sp - horas de trabajo\sp - funcional normal\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1543336948 source:e:\4- preparado final\sp - horas de trabajo\sp - funcional normal\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1542839652 source:e:\4- preparado final\sp - horas de trabajo\sp - funcional normal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1543616470 e:\4- preparado final\sp - horas de trabajo\sp - funcional normal\controller.h
+
+1542803492 source:e:\4- preparado final\sp - horas de trabajo\sp - funcional normal\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541640428 source:e:\4- preparado final\sp - horas de trabajo\sp - funcional normal\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
