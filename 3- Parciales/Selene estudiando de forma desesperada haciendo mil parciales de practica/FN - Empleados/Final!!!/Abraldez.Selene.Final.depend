@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1564240523 source:d:\selene\desktop\final\----cascara----\abraldez.selene.final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Entity.h"
+
+1564237546 source:d:\selene\desktop\final\----cascara----\abraldez.selene.final\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1541640386 d:\selene\desktop\final\----cascara----\abraldez.selene.final\utn.h
+
+1543618170 source:d:\selene\desktop\final\----cascara----\abraldez.selene.final\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1543616984 d:\selene\desktop\final\----cascara----\abraldez.selene.final\linkedlist.h
+
+1564239586 source:d:\selene\desktop\final\----cascara----\abraldez.selene.final\entity.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Entity.h"
+
+1564239586 d:\selene\desktop\final\----cascara----\abraldez.selene.final\entity.h
+
+1564239591 source:d:\selene\desktop\final\----cascara----\abraldez.selene.final\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Entity.h"
+
+1564240593 d:\selene\desktop\final\----cascara----\abraldez.selene.final\controller.h
+
+1564240523 source:d:\selene\desktop\final\----cascara----\abraldez.selene.final\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Entity.h"
+	"parser.h"
+	"utn.h"
+
+1564239586 d:\selene\desktop\final\----cascara----\abraldez.selene.final\parser.h
+
+1564252688 source:d:\selene\desktop\final\----cascara----\final\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1543616984 d:\selene\desktop\final\----cascara----\final\linkedlist.h
+
+1564241457 source:d:\selene\desktop\final\----cascara----\final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Entity.h"
+
+1564240593 d:\selene\desktop\final\----cascara----\final\controller.h
+
+1564239586 d:\selene\desktop\final\----cascara----\final\entity.h
+
+1564239591 source:d:\selene\desktop\final\----cascara----\final\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Entity.h"
+
+1564237546 source:d:\selene\desktop\final\----cascara----\final\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1541640386 d:\selene\desktop\final\----cascara----\final\utn.h
+
+1564254135 source:d:\selene\desktop\final\----cascara----\final\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Entity.h"
+	"parser.h"
+	"utn.h"
+
+1564239586 d:\selene\desktop\final\----cascara----\final\parser.h
+
+1564254135 source:d:\selene\desktop\final\----cascara----\final\entity.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Entity.h"
+
+1564237546 source:d:\selene\desktop\final\fn - empleados\final\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1541640386 d:\selene\desktop\final\fn - empleados\final\utn.h
+
+1564356204 source:d:\selene\desktop\final\fn - empleados\final\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1564356204 d:\selene\desktop\final\fn - empleados\final\linkedlist.h
+
+1564439877 source:d:\selene\desktop\final\fn - empleados\final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Entity.h"
+
+1564240593 d:\selene\desktop\final\fn - empleados\final\controller.h
+
+1564437940 d:\selene\desktop\final\fn - empleados\final\entity.h
+
+1564439847 source:d:\selene\desktop\final\fn - empleados\final\entity.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Entity.h"
+
+1564439847 source:d:\selene\desktop\final\fn - empleados\final\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Entity.h"
+	"parser.h"
+	"utn.h"
+
+1564239586 d:\selene\desktop\final\fn - empleados\final\parser.h
+
+1564439414 source:d:\selene\desktop\final\fn - empleados\final\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Entity.h"
+

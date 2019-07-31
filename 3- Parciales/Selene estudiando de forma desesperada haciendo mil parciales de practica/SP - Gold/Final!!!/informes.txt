@@ -1,0 +1,9 @@
+*************************
+  Informe de ventas
+*************************
+-Cantidad total de entregas: 10
+--Cantidad de entregas por tipo: 5 (GOLD) - 3  (REGULAR) - 2 (PLUS)
+-Cantidad total de bultos entregados: 105
+-Promedio de bultos por entrega: 10
+-Importe promedio por entrega: 628.63
+*************************

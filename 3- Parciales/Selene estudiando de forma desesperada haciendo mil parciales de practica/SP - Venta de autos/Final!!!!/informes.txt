@@ -1,0 +1,8 @@
+*************************
+  Informe de ventas
+*************************
+-Cantidad de unidades vendidas totales: 9
+-Cantidad de unidades con precio mayor a 100000: 8
+-Cantidad de unidades con precio mayor a 300000: 6
+-Cantidad de Fords vendidos: 1
+*************************

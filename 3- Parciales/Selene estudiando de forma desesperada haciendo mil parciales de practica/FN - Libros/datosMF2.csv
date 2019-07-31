@@ -1,0 +1,31 @@
+id,titulo,autor,precio,editorialId
+1,Manuel Belgrano,Pigna,500,1
+2,Matematica... ¿estas ahi?,Paenza,350,2
+3,Como programar en Java,Deitel y Deitel,1000,3
+4,El señor de los anillos - La comunidad del anillo,Tolkien,800,4
+5,Harry Potter Y La Piedra Filosofal,Rowling,800,5
+6,Las aventuras de inocho,Collodi Carlo,300,6
+7,La voz del gran jefe,Pigna,500,1
+8,Matematica... ¿estas ahi? Episodio 2,Paenza,350,2
+9,Como programar en C++,Deitel y Deitel,1000,3
+10,El señor de los anillos - Las dos torres,Tolkien,800,4
+11,Harry Potter y la camara secreta,Rowling,800,5
+12,El mago de Oz,Baum Frank,300,6
+13,La vida por la patria,Pigna,500,1
+14,Matematica... ¿estas ahi? Episodio 3.14,Paenza,350,2
+15,El señor de los anillos - El retorno del rey,Tolkien,800,4
+16,Harry Potter y el prisionero de Azkaban,Rowling,800,5
+17,Los Viajes De Gulliver,Swift Jonathan,300,6
+18,Libertadores de America,Pigna,500,1
+19,Matematica... ¿estas ahi? Episodio 100,Pigna,350,2
+20,El hobbit,Tolkien,800,4
+21,Harry Potter y el cáliz de fuego,Rowling,800,5
+22,Alicia En El Pais De Las Maravillas,Carroll Lewis,300,6
+23,Los mitos de la historia argentina 1,Pigna,500,1
+24,Harry Potter y la Orden del Fenix,Rowling,800,5
+25,Los mitos de la historia argentina 2,Pigna,500,1
+26,Harry Potter y el misterio del principe,Rowling,800,5
+27,Los mitos de la historia argentina 3,Pigna,500,1
+28,Harry Potter y las Reliquias de la Muerte,Rowling,800,5
+29,Los mitos de la historia argentina 4,Pigna,500,1
+30,Los mitos de la historia argentina 5,Pigna,500,1

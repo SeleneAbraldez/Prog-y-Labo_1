@@ -1,0 +1,9 @@
+id_recta,nombre,id_ingrediente,cantidad
+1,lenteja con arroz,1,50
+1,lenteja con arroz,2,50
+2,arroz con pollo,2,100
+2,arroz con pollo,5,50
+3,polenta con carne,3,100
+3,polenta con carne,4,50
+4,arroz con carne,2,100
+4,arroz con carne,4,50

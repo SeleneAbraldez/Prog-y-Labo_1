@@ -1,0 +1,31 @@
+id,titulo,autor,precio,editorialId
+1,Manuel Belgrano,Pigna,320.000000,1
+7,La voz del gran jefe,Pigna,320.000000,1
+13,La vida por la patria,Pigna,320.000000,1
+18,Libertadores de America,Pigna,320.000000,1
+23,Los mitos de la historia argentina 1,Pigna,320.000000,1
+25,Los mitos de la historia argentina 2,Pigna,320.000000,1
+27,Los mitos de la historia argentina 3,Pigna,320.000000,1
+29,Los mitos de la historia argentina 4,Pigna,320.000000,1
+30,Los mitos de la historia argentina 5,Pigna,320.000000,1
+14,Matematica... ¿estas ahi? Episodio 3.14,Paenza,283.500000,2
+8,Matematica... ¿estas ahi? Episodio 2,Paenza,283.500000,2
+19,Matematica... ¿estas ahi? Episodio 100,Pigna,283.500000,2
+2,Matematica... ¿estas ahi?,Paenza,283.500000,2
+9,Como programar en C++,Deitel y Deitel,1000.000000,3
+3,Como programar en Java,Deitel y Deitel,1000.000000,3
+4,El señor de los anillos - La comunidad del anillo,Tolkien,800.000000,4
+10,El señor de los anillos - Las dos torres,Tolkien,800.000000,4
+20,El hobbit,Tolkien,800.000000,4
+15,El señor de los anillos - El retorno del rey,Tolkien,800.000000,4
+24,Harry Potter y la Orden del Fenix,Rowling,800.000000,5
+5,Harry Potter Y La Piedra Filosofal,Rowling,800.000000,5
+26,Harry Potter y el misterio del principe,Rowling,800.000000,5
+16,Harry Potter y el prisionero de Azkaban,Rowling,800.000000,5
+28,Harry Potter y las Reliquias de la Muerte,Rowling,800.000000,5
+21,Harry Potter y el cáliz de fuego,Rowling,800.000000,5
+11,Harry Potter y la camara secreta,Rowling,800.000000,5
+12,El mago de Oz,Baum Frank,300.000000,6
+17,Los Viajes De Gulliver,Swift Jonathan,300.000000,6
+6,Las aventuras de inocho,Collodi Carlo,300.000000,6
+22,Alicia En El Pais De Las Maravillas,Carroll Lewis,300.000000,6
