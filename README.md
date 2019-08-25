@@ -1,13 +1,13 @@
-# Material educativo Programación I y Laboratorio I
+# Material educativo ProgramaciÃ³n I y Laboratorio I
 
-## Tecnicaturas en programación. UTN-FRA
+## Tecnicaturas en programaciÃ³n. UTN-FRA
 
-#### Descripción:
+#### DescripciÃ³n:
 
-En este repositorio se encontrará el material educativo utiliziado en las materias Programación I y Laboratorio I separado clase a clase.
-Dentro de cada directorio que corresponde a una clase, se encontrará un archivo README en donde se detallará el contenido de dicha clase, generalmente compuesto por
-uno o más apuntes, un videotutorial explicando la resolución de un ejercicio y los archivos del programa resuelto en el video.
+En este repositorio se encontrarÃ¡ el material educativo utiliziado en las materias ProgramaciÃ³n I y Laboratorio I separado por carpetas. En la carpeta de clases, estan ordenadas en grupos segun el tema visto. Dentro de la carpeta de teoria, hat un txt describiendo un poco l tema de la clase mas ejericios. 
+En la carpeta de parciales estan guardados material de estudio y parciales que me han tomado o que encontre, la mayoria con su resolucion y dividios en primeros parciales, segundos y finales. 
+Espero que les sirva de algo!
 
-#### Contacto:
-UTN-FRA. Extensión universitaria. Tecnicaturas en programación. http://www.sistemas-utnfra.com.ar . tecnicaturas@fra.utn.edu.ar
+#### Facultad:
+UTN-FRA. ExtensiÃ³n universitaria. Tecnicaturas en programaciÃ³n. http://www.sistemas-utnfra.com.ar . tecnicaturas@fra.utn.edu.ar
 
